@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamstine
+- 👋 Hi, I’m @jamstine (James Stine)
 - 👀 I’m interested in computer arithmetic and architecture, Very Large Scale Integration, Application Specific Architectures, Memory Architectures and Electronic Design Automation flows.
 - 🌱 I’m currently learning implementation of computer architectures/arithmetic in new areas.
 - 💞️ I’m looking to collaborate on anything
